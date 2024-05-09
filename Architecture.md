@@ -16,6 +16,6 @@ views - The screen folder contain the view folder for the applicatio. e.g (Dashb
 
 Shared - This contain the shared folder e.g (A11Y(Accessibility configuration), Seo(React-helmet config))
 
-Utils - This contail of utility and helper functions for the general codebase.
+Utils - This house the utility and helper functions for the general codebase.
 
-stores - This house the folder for managing the state-manager
+stores - This house the folder for managing the state-manager or context for the app
