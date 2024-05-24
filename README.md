@@ -1,8 +1,14 @@
+To start the Project run
+
+run yarn to install packages. N:B - "It better to use yarn",
+
+run yarn start to start the project
+
 # These are the styleguide for this project.
 
 ## Fonts
 
-Yet to be decided
+Space Grotesk
 
 ## CSS
 

@@ -14,3 +14,7 @@
 
 /* ----------- import utilities folder ---------- */
 @import "tailwindcss/utilities";
+
+body {
+  background: var(--platinum);
+}

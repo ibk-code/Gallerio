@@ -1,5 +1,6 @@
 body {
   font-weight: 400;
-  /* ------ TODO: Add font config here ------ */
-  /* font-family: ; */
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }

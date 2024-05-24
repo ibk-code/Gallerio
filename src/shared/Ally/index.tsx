@@ -10,11 +10,7 @@ const SkipToContent = ({
 }) => {
   return (
     <>
-      <SkipToContentStyle
-        className="skip text-white"
-        href={`#${section}`}
-        aria-label={content}
-      >
+      <SkipToContentStyle href={`#${section}`} aria-label={content}>
         {content}
       </SkipToContentStyle>
     </>
